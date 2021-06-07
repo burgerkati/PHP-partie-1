@@ -12,7 +12,7 @@ Créez une variable age aléatoire. Afficher vous êtes majeur ou vous êtes min
 ### exercice_5
 Créez une variable âge et une variable genre. Afficher aléatoirement vous êtes une femme et vous avez `x` ans ou vous êtes un homme et vous avez `x` ans.
 ### exercice_6
-Créez une variable magnitude allant de 0 à 9. Gérez l'affichage selon la magnitude.
+Créez une variable magnitude allant de 1 à 9. Gérez l'affichage selon la magnitude.
 1. `Micro-séisme impossible à ressentir`
 2. `Micro-séisme impossible à ressentir mais enregistrable par les sismomètres`
 3. `Ne cause pas de dégats mais commence à pouvoir être légèrement ressenti`
